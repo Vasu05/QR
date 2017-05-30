@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "C:\\Users\\Vasu Chand\\Downloads\\QR\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Vasu Chand\\.android\\build-cache\\6de4906dc0665dba93047b427578c04bf02bb4cf\\output\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Vasu Chand\\.android\\build-cache\\6de4906dc0665dba93047b427578c04bf02bb4cf\\output\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 55,
+                        "endOffset": 164
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\^#$^&RO0T\\Documents\\AndroidStudioProjects\\QR\\app\\build\\intermediates\\res\\merged\\debug\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\^#$^&RO0T\\Documents\\AndroidStudioProjects\\QR\\app\\build\\intermediates\\exploded-aar\\me.dm7.barcodescanner\\core\\1.8.4\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\^#$^&RO0T\\Documents\\AndroidStudioProjects\\QR\\app\\build\\intermediates\\exploded-aar\\me.dm7.barcodescanner\\core\\1.8.4\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 55,
+                        "endOffset": 164
+                    }
+                }
+            }
+        ]
+    }
+]

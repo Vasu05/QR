@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="darksection.qr.MainActivity">
+
+    <item android:title="Help" android:id="@+id/m1"></item>
+    <item android:title="Contact Us" android:id="@+id/m2"></item>
+    <item android:title="About Us" android:id="@+id/m3"></item>
+    <item android:title="Rate App" android:id="@+id/m4"></item>
+</menu>

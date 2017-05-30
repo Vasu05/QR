@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vasu Chand\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="C:\Users\Vasu Chand\Downloads\QR\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha9_85017844a1e3dbad70fd7f87558a12b71c7981ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vasu Chand\.android\build-cache\3d80a8dc231524ec31a6fe27660cb481ce3122a3\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Vasu Chand\Downloads\QR\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_b8d90a8edbbd8c4107995c1b88f7653d49160479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vasu Chand\.android\build-cache\c03a76d362e84781026c3c417bf98dbbd667c99c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Vasu Chand\Downloads\QR\app\build\intermediates\pre-dexed\debug\classes_d06eb393d0703a92a206fd309d7c771a1d3989b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vasu Chand\.android\build-cache\671250925b21c0cc8fe1238b1063ed790d5ea7ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Vasu Chand\Downloads\QR\app\build\intermediates\pre-dexed\debug\classes_7747fb72b9d378d2f9bfd904d3b4bae7dd8a479a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vasu Chand\.android\build-cache\9b2d3c199ffaa660864b43b7c5aff61431a1e201\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Vasu Chand\Downloads\QR\app\build\intermediates\pre-dexed\debug\classes_97807f17a3060e26e569c909cf6c12fb72ab8f34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vasu Chand\.android\build-cache\5885ccefe5d31e01743f2ba813aaccc088c868c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="C:\Users\Vasu Chand\Downloads\QR\app\build\intermediates\pre-dexed\debug\classes_85928b0dbb2e0cbadc4822944fb42603fb7b329f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vasu Chand\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Vasu Chand\Downloads\QR\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_e65b34a545a05357eec812ceb345ffc28fc017d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vasu Chand\.android\build-cache\6de4906dc0665dba93047b427578c04bf02bb4cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="C:\Users\Vasu Chand\Downloads\QR\app\build\intermediates\pre-dexed\debug\classes_01651ab64a8e44cd9a7f91373a82b05b5cdeeb7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vasu Chand\.android\build-cache\04aa17173de2e79fff7046e1ec663336c169041d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="C:\Users\Vasu Chand\Downloads\QR\app\build\intermediates\pre-dexed\debug\classes_04c23332432df9d8929402387675d1f7fb87648b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vasu Chand\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\Vasu Chand\Downloads\QR\app\build\intermediates\pre-dexed\debug\core-3.2.1_35d2de6739b8b7e0be70cfce94f2ceb2908a87e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vasu Chand\.android\build-cache\fc8d355dc9475510ca39a0655213f452c934e84d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="C:\Users\Vasu Chand\Downloads\QR\app\build\intermediates\pre-dexed\debug\classes_ac8956e808b2b9e536dd6d395360d6619cd53e0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vasu Chand\.android\build-cache\3d80a8dc231524ec31a6fe27660cb481ce3122a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Vasu Chand\Downloads\QR\app\build\intermediates\pre-dexed\debug\classes_2af031a1f2dcbad2579432e6a58f8196f6cffd5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vasu Chand\.android\build-cache\3e2199ce39fcd4380e55fb96aa8f4d83b3dcc913\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Vasu Chand\Downloads\QR\app\build\intermediates\pre-dexed\debug\classes_6519b2dbd0d846bea7792a757e2b7ced45dd0c10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vasu Chand\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Vasu Chand\Downloads\QR\app\build\intermediates\pre-dexed\debug\glide-3.7.0_06d39f5a3d7fa25801edaa9b405373707f5fd220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vasu Chand\.android\build-cache\cabf1f6af0158c7ab6bd73acdd054cc1cb8b86ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Vasu Chand\Downloads\QR\app\build\intermediates\pre-dexed\debug\classes_8931b9b3c18df3169299159fe2567f58a269607f.jar" />
+    </item>
+
+</items>
